@@ -5,8 +5,6 @@ var a = 3;
 var b = 5;
 var c;
 
-// alert( "description of alerted_value: " + alerted_value );
-
 alert("var a = 3;\nvar b = 5;\nvar c;\n-------\n" +
       "a + b = " + (a + b) + "\n" +
       "a - b = " + (a - b) + "\n" +
